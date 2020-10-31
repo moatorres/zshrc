@@ -1,10 +1,11 @@
 <sub>[zshrc](https://github.com/moatorres/zshrc)</sub>
 
-# ⚡️ ZSH Config
+## ⚡️ ZSH Config
 
-### A collection of `~/.zshrc` configs I use
+#### A collection of `~/.zshrc` configs ⚡️
 
-#### Shell Script Quick Reference
+
+<details open><summary>#### Shell Script Quick Reference</summary>
 
 | CHAR | DESCRIPTION | EXAMPLE |
 |:---:|-|:-|
@@ -38,5 +39,7 @@
 |`-w`| Is a writable file	                                                                 |`if [ -w /bin/ls ]`|
 |`-x`| Is an executable file	                                                              |`if [ -x /bin/ls ]`|
 |`()`| Function definition	                                                                |`function myfunc() { echo hello }`|
+
+</details>
 
 <sub><sup>Made with ❤️ by [Moa](https://github.com/moatorres)</sup></sub>
