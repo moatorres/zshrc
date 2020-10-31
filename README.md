@@ -4,8 +4,9 @@
 
 #### A collection of `~/.zshrc` configs ⚡️
 
-
-<details open><summary>#### Shell Script Quick Reference</summary>
+<details><summary>Shell Script Quick Reference</summary>
+  
+This is a [quick reference](https://www.shellscript.sh/quickref.html) guide to the meaning of some of the less easily guessed commands and codes of shell scripts. By their nature, they are also quite difficult to find using search engines. These examples include process management, shell scripts arguments, and shell script test conditions.
 
 | CHAR | DESCRIPTION | EXAMPLE |
 |:---:|-|:-|
