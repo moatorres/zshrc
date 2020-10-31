@@ -1,8 +1,9 @@
 <sub>[zshrc](https://github.com/moatorres/zshrc)</sub>
 
 ## ⚡️ ZSH Config
-
-`&`	     Run the previous command in the background	                                         `ls &`
+|-|-|-|
+| `&` | Run the previous command in the background | `ls &` |
+	                                              
 
 `&&`	   Logical AND	                                                                        `if [ "$foo" -ge "0" ] && [ "$foo" -le "9"]`
 
