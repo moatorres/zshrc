@@ -21,8 +21,8 @@
 |`$0`| Name of current command (as called)	                                                |`echo "I am $0"`|
 |`$1`| Name of current command's first parameter	                                           |`echo "My first argument is $1"`|
 |`$9`| Name of current command's ninth parameter	                                           |`echo "My ninth argument is $9"`|
-|`$@`| All of current command's parameters (with whitespace and quoting)	             |`echo "My arguments are $@"`|
-|`$*`| All of current command's parameters (without whitespace and quoting)	         |`echo "My arguments are $*"`|
+|`$@`| All of current command's parameters (with whitespaces and quoting)	             |`echo "My arguments are $@"`|
+|`$*`| All of current command's parameters (no whitespaces or quoting)	         |`echo "My arguments are $*"`|
 |`-eq`| Numeric Equality	                                                                   |`if [ "$foo" -eq "9" ]`|
 |`-ne`| Numeric Inquality	                                                                  |`if [ "$foo" -ne "9" ]`|
 |`-lt`| Less Than	                                                                          |`if [ "$foo" -lt "9" ]`|
