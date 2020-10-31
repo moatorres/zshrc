@@ -2,6 +2,10 @@
 
 ## ⚡️ ZSH Config
 
+My ```shell source ~/.zshrc``` config file
+
+### Shell Script Quick Reference
+
 | CHAR | DESCRIPTION | EXAMPLE |
 |:---:|-|:-|
 | `&` | Run the previous command in the background | `ls &` |
