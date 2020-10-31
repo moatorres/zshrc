@@ -1,4 +1,4 @@
-<sub>[zshrc](https://github.com/moatorres/zshrc)</sub>
+<sub>[moatorres/zshrc](https://github.com/moatorres/zshrc)</sub>
 
 ## ⚡️ ZSH Config
 
