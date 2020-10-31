@@ -1,6 +1,7 @@
 <sub>[zshrc](https://github.com/moatorres/zshrc)</sub>
 
 ## ⚡️ ZSH Config
+| char | descrption | example |
 |-|-|-|
 | `&` | Run the previous command in the background | `ls &` |
 	                                              
