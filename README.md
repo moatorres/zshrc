@@ -1,11 +1,10 @@
 <sub>[zshrc](https://github.com/moatorres/zshrc)</sub>
 
-## ⚡️ ZSH Config
+# ⚡️ ZSH Config
 
-My `~/.zshrc` config file
----
+### My `~/.zshrc` config file
 
-### Shell Script Quick Reference
+#### Shell Script Quick Reference
 
 | CHAR | DESCRIPTION | EXAMPLE |
 |:---:|-|:-|
