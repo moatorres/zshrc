@@ -2,12 +2,14 @@
 
 ## ⚡️ ZSH Config
 
-A collection of `~/.zshrc` configs I use
+A collection of `~/.zshrc` configs I've been using over the past few months.
 
 <details><summary>Shell Script Quick Reference</summary>
-<br/>
-<sub>This is a [quick reference guide](https://www.shellscript.sh/quickref.html) to the meaning of some of the less easily guessed commands and codes of shell scripts. By their nature, they are also quite difficult to find using search engines. These examples include process management, shell scripts arguments, and shell script test conditions.</sub
 
+<br />
+<sub>This is a [quick reference guide](https://www.shellscript.sh/quickref.html) to the meaning of some of the less easily guessed commands and codes of shell scripts. By their nature, they are also quite difficult to find using search engines. These examples include process management, shell scripts arguments, and shell script test conditions.</sub
+<br />
+  
 | CHAR | DESCRIPTION | EXAMPLE |
 |:---:|-|:-|
 | `&` | Run the previous command in the background | `ls &` |
