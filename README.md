@@ -9,6 +9,7 @@
 <br />
 This is a [quick reference guide](https://www.shellscript.sh/quickref.html) to the meaning of some of the less easily guessed commands and codes of shell scripts. By their nature, they are also quite difficult to find using search engines. These examples include process management, shell scripts arguments, and shell script test conditions.</sub>
 <br />
+<br />
 
 | CHAR | DESCRIPTION | EXAMPLE |
 |:---:|-|:-|
