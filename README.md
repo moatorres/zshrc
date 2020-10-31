@@ -2,7 +2,7 @@
 
 # ⚡️ ZSH Config
 
-### `~/.zshrc` config file
+### A collection of `~/.zshrc` configs I use
 
 #### Shell Script Quick Reference
 
