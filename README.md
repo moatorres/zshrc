@@ -2,7 +2,8 @@
 
 ## ⚡️ ZSH Config
 
-My ```shell source ~/.zshrc``` config file
+My `~/.zshrc` config file
+---
 
 ### Shell Script Quick Reference
 
