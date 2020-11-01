@@ -2,7 +2,7 @@
 
 ## ⚡️ ZSH Config
 
-#### A collection of `~/.zshrc` configs I've been using over the past few months.
+#### A collection of `~/.zshrc` and `~/.zshenv` useful aliases, functions and arguments
 
 Check out the [quick reference guide](https://www.shellscript.sh/quickref.html) to the meaning of some of the less easily guessed commands and codes of shell scripts. By their nature, they are also quite difficult to find using search engines. These examples include process management, shell scripts arguments, and shell script test conditions.
 
